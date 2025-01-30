@@ -3,14 +3,14 @@ galaxy_info:
   author: Drumspb
   description: Description of your role
   company: your_company
-  license: MIT  # Убедитесь, что здесь указана действительная лицензия
+  license: MIT  # Выберите актуальную лицензию
   role_name: LightHouse-role  # Имя роли должно совпадать с именем директории
   namespace: ''  # Пустое пространство имен, если оно не используется
 
   min_ansible_version: 2.1
 
   galaxy_tags: []
-  # List tags for your role here, one per line
+  # Можно добавить теги, если необходимо
 
 dependencies: []
-  # List your role dependencies here, one per line
+  # Если нет зависимостей, этот список остается пустым
