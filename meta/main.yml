@@ -1,16 +1,11 @@
-# SPDX-License-Identifier: MIT-0
 galaxy_info:
   author: Drumspb
   description: Description of your role
   company: your_company
   license: MIT  # Выберите актуальную лицензию
-  role_name: LightHouse-role  # Имя роли должно совпадать с именем директории
-  namespace: ''  # Пустое пространство имен, если оно не используется
+  role_name: lighthouse_role  # Новое имя роли
+  namespace: ''
 
   min_ansible_version: 2.1
 
   galaxy_tags: []
-  # Можно добавить теги, если необходимо
-
-dependencies: []
-  # Если нет зависимостей, этот список остается пустым
